@@ -1,0 +1,11 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,winner,year,hpoints,apoints,points
+1998-06-10,Brazil,Scotland,2,1,FIFA World Cup,Saint-Denis,France,TRUE,Brazil,1998,3,0,3
+1998-06-10,Morocco,Norway,2,2,FIFA World Cup,Montpellier,France,TRUE,Draw,1998,1,1,2
+1998-06-11,Cameroon,Austria,1,1,FIFA World Cup,Toulouse,France,TRUE,Draw,1998,1,1,2
+1998-06-11,Italy,Chile,2,2,FIFA World Cup,Bordeaux,France,TRUE,Draw,1998,1,1,2
+1998-06-12,France,South Africa,3,0,FIFA World Cup,Marseille,France,FALSE,France,1998,3,0,3
+1998-06-12,Paraguay,Bulgaria,0,0,FIFA World Cup,Montpellier,France,TRUE,Draw,1998,1,1,2
+1998-06-12,Saudi Arabia,Denmark,0,1,FIFA World Cup,Lens,France,TRUE,Denmark,1998,0,3,3
+1998-06-13,South Korea,Mexico,1,3,FIFA World Cup,Lyon,France,TRUE,Mexico,1998,0,3,3
+1998-06-13,Netherlands,Belgium,0,0,FIFA World Cup,Saint-Denis,France,TRUE,Draw,1998,1,1,2
+1998-06-13,Spain,Nigeria,2,3,FIFA World Cup,Nantes,France,TRUE,Nigeria,1998,0,3,3
